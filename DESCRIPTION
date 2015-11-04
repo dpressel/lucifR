@@ -1,0 +1,10 @@
+Package: lucifR
+Type: Package
+Title: Lucene Interface for R
+Version: 1.0
+Date: 2015-11-03
+Author: dpressel
+Maintainer: <dpressel@gmail.com>
+Description: Demonstration software showing how you can use rJava for simple but useful tasks
+License: APL
+Depends: rJava (>= 0.9-7)
